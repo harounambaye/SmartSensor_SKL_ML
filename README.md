@@ -40,7 +40,7 @@ SmartSensor_SKL_ML/
 ├── data/
 │   └── mesures_capteurs.csv
 ├── notebooks/
-│   └── atelier_scikit-learn_iot.ipynb
+│   └── SmartSensor_SKL_ML.ipynb
 ├── models/
 │   ├── modele_capteurs.joblib
 │   └── modele_capteurs.pkl
